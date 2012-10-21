@@ -1,3 +1,16 @@
+openmediavault-clamav (0.4.2+svn349-0aurex1) precise; urgency=low
+
+  * New upstream snapshot, based on 'trunk' revision 349 (2012-10-21)
+  * Merge with latest upstream sources and rebuild for aurex 12.04
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Sun, 21 Oct 2012 13:27:43 +0200
+
+openmediavault-clamav (0.4.2) stable; urgency=low
+
+  * Change file permissions of logrotate config file.
+
+ -- Volker Theile <volker.theile@openmediavault.org>  Thu, 18 Oct 2012 11:51:58 +0200
+
 openmediavault-clamav (0.4.1+svn345-0aurex1) precise; urgency=low
 
   * Upstream snapshot based on 'trunk' revision 345 (2012-10-12)
